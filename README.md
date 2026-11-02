@@ -31,4 +31,10 @@ The website now has color that appears on the website navigation. I figured that
 
 I managed to also add footers in all pages with a background color of white , blue navigation hovers for attraction. I specifically made the services page black for interests and thought it will be suitable for the website.
 
+With addition of JavaScript to the Dube Technologies Website
+JavaScript was added to improve its functionality and interactivity, while HTML provides structure and CSS handles the styling and appearance, JavaScript makes the website more responsive to user interactions.
+
+JavaScript was connected to the existing HTML pages through an external script.js file, allowing functionality to be managed across the website without changing the CSS structure
+
+
 All fonts are Arial, with a white background color and blue fonts for all headings.
